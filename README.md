@@ -1,2 +1,2 @@
 # hugo-aws-kickstart
- Automates the creation of a server-less Hugo blog using AWS and Github Actions
+ Automates the creation of a serverless Hugo blog using AWS and Github Actions
